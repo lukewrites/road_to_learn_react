@@ -1,1 +1,1 @@
-# road_to_learn_react
+Working through the excellent [Road to Learning React](https://roadtoreact.com/).
